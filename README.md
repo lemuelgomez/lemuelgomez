@@ -10,4 +10,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lemuelgomez&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemuelgomez&layout=compact)](https://github.com/lemuelgomez/github-readme-stats)
 
