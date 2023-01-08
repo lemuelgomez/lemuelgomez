@@ -1,8 +1,9 @@
+<!--
 <div align="center">
   <h3>Watch my contribution graph get eaten by the snake 🐍</h3>
   
 ![snake gif](https://github.com/lemuelgomez/lemuelgomez/blob/output/github-contribution-grid-snake.svg)
-</div>
+</div>-->
 
 <div align="center">
   <h3>My Github Stats :rocket:</h3>
