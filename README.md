@@ -9,6 +9,8 @@
   <h3>My Github Stats :rocket:</h3>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lemuelgomez&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lemuelgomez)](https://git.io/streak-stats)
 </div>
 
 
